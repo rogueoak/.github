@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/rogueoak/.github/main/profile/assets/rogueoak-logo.svg" alt="rogueoak — quietly rogue, seriously solid" width="480">
 
-**Quietly rogue. Seriously solid.** We build sharp, well-crafted developer tools — and ship the good ones as open source.
+**Quietly rogue. Seriously solid.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mattmaynes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mattmaynes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matthew_Maynes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-maynes/)
