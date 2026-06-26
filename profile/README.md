@@ -48,9 +48,7 @@ One foundation for the look and feel of every rogueoak product. Built on Radix, 
 
 ---
 
-## On the workbench
-
-More is taking shape, built with the same care. Watch this space. 🌱
+More is coming soon, built with the same care. 🌱
 
 ---
 
