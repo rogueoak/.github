@@ -24,42 +24,31 @@ AI-assisted development is fast but forgetful. Spectra makes intent explicit *be
 
 ---
 
-## More from the workshop
+## Trellis
 
-The tools that keep every rogueoak project looking and working like one hand built it.
+<a href="https://github.com/rogueoak/trellis"><img src="https://raw.githubusercontent.com/rogueoak/.github/main/profile/assets/trellis-logo.svg" alt="Trellis" width="380"></a>
 
-<div align="center">
+**Shared conventions for the AI agents on every rogueoak repo. Install once, update in one command.**
 
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/rogueoak/trellis"><img src="https://raw.githubusercontent.com/rogueoak/.github/main/profile/assets/trellis-logo.svg" alt="Trellis" width="360"></a>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/rogueoak/canopy"><img src="https://raw.githubusercontent.com/rogueoak/.github/main/profile/assets/canopy-logo.svg" alt="Canopy" width="360"></a>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top">
-
-Shared conventions for the AI agents on every rogueoak repo. Install once, update in one command. Same playbook everywhere.
+Every repo should feel like one hand built it. Trellis is the playbook the agents read from: how to write, how to ship, plus the templates that go with it. It lives in version control, in plain Markdown, so any project stays in step.
 
 **[Explore Trellis →](https://github.com/rogueoak/trellis)**
 
-</td>
-<td align="center" valign="top">
+---
 
-The earthy, tree-themed design system behind every rogueoak interface. Built on Radix, shadcn, Tailwind v4, and TypeScript.
+## Canopy
+
+<a href="https://github.com/rogueoak/canopy"><img src="https://raw.githubusercontent.com/rogueoak/.github/main/profile/assets/canopy-logo.svg" alt="Canopy" width="380"></a>
+
+**The earthy, tree-themed design system behind every rogueoak interface.**
+
+One foundation for the look and feel of every rogueoak product. Built on Radix, shadcn, Tailwind v4, and TypeScript, organised like a tree from tokens up to components, so each app draws from the same roots.
 
 **[Explore Canopy →](https://github.com/rogueoak/canopy)**
 
-</td>
-</tr>
-</table>
+---
 
-</div>
-
-More is taking shape, built with the same care. Watch this space. 🌱
+More is coming soon, built with the same care. 🌱
 
 ---
 
