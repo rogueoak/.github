@@ -48,6 +48,18 @@ One foundation for the look and feel of every rogueoak product. Built on Radix, 
 
 ---
 
+## Thought Buffer
+
+<a href="https://thoughtbuffer.app"><img src="https://raw.githubusercontent.com/rogueoak/.github/main/profile/assets/thought-buffer-logo.svg" alt="Thought Buffer" width="380"></a>
+
+**Hands-free, on-device dictation for capturing your thinking out loud on iPhone and in CarPlay.**
+
+For the ideas that arrive when your hands are busy: driving, walking, cooking. Start a thought and talk, and it waits through your pauses instead of cutting you off. Speech-to-text runs on the device, so your words never leave your phone, and your thoughts stay yours as plain Markdown. Coming soon.
+
+**[Visit thoughtbuffer.app →](https://thoughtbuffer.app)**
+
+---
+
 More is coming soon, built with the same care. 🌱
 
 ---
